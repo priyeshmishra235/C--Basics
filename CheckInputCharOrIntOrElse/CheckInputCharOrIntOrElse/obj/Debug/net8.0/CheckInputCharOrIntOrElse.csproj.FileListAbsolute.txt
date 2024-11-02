@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\bin\Debug\net8.0\CheckInputCharOrIntOrElse.exe
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\bin\Debug\net8.0\CheckInputCharOrIntOrElse.deps.json
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\bin\Debug\net8.0\CheckInputCharOrIntOrElse.runtimeconfig.json
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\bin\Debug\net8.0\CheckInputCharOrIntOrElse.dll
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\bin\Debug\net8.0\CheckInputCharOrIntOrElse.pdb
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.AssemblyInfo.cs
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.dll
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\refint\CheckInputCharOrIntOrElse.dll
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.pdb
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\CheckInputCharOrIntOrElse.genruntimeconfig.cache
+E:\Visual Studio Community\c#\CheckInputCharOrIntOrElse\CheckInputCharOrIntOrElse\obj\Debug\net8.0\ref\CheckInputCharOrIntOrElse.dll

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio Community\\c#\\CheckInputCharOrIntOrElse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90E5CC-9893-441E-BF5E-3CF0C33D0898}|CheckInputCharOrIntOrElse\\CheckInputCharOrIntOrElse.csproj|e:\\visual studio community\\c#\\checkinputcharorintorelse\\checkinputcharorintorelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90E5CC-9893-441E-BF5E-3CF0C33D0898}|CheckInputCharOrIntOrElse\\CheckInputCharOrIntOrElse.csproj|solutionrelative:checkinputcharorintorelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio Community\\c#\\CheckInputCharOrIntOrElse\\CheckInputCharOrIntOrElse\\Program.cs",
+              "RelativeDocumentMoniker": "CheckInputCharOrIntOrElse\\Program.cs",
+              "ToolTip": "E:\\Visual Studio Community\\c#\\CheckInputCharOrIntOrElse\\CheckInputCharOrIntOrElse\\Program.cs*",
+              "RelativeToolTip": "CheckInputCharOrIntOrElse\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:20:28.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

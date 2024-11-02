@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twoNumSumFind", "twoNumSumFind\twoNumSumFind.csproj", "{C6D21A4C-E9A2-4A7D-B5D2-293627740E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNum", "..\SwapTwoNum\SwapTwoNum.csproj", "{B7A95459-1374-4F84-B1C6-D5E7C72300BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D21A4C-E9A2-4A7D-B5D2-293627740E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D21A4C-E9A2-4A7D-B5D2-293627740E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D21A4C-E9A2-4A7D-B5D2-293627740E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D21A4C-E9A2-4A7D-B5D2-293627740E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A95459-1374-4F84-B1C6-D5E7C72300BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A95459-1374-4F84-B1C6-D5E7C72300BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A95459-1374-4F84-B1C6-D5E7C72300BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A95459-1374-4F84-B1C6-D5E7C72300BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F5DF63-399B-4D54-A000-765BD7D26BDA}
+	EndGlobalSection
+EndGlobal

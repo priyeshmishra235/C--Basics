@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CheckInputCharOrIntOrElse/1.0.0": {
+        "runtime": {
+          "CheckInputCharOrIntOrElse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckInputCharOrIntOrElse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

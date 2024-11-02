@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\bin\Debug\net8.0\sumFromNaturalNoMtoN.exe
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\bin\Debug\net8.0\sumFromNaturalNoMtoN.deps.json
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\bin\Debug\net8.0\sumFromNaturalNoMtoN.runtimeconfig.json
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\bin\Debug\net8.0\sumFromNaturalNoMtoN.dll
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\bin\Debug\net8.0\sumFromNaturalNoMtoN.pdb
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.AssemblyInfo.cs
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.dll
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\refint\sumFromNaturalNoMtoN.dll
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.pdb
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\sumFromNaturalNoMtoN.genruntimeconfig.cache
+E:\Visual Studio Community\c#\sumFromNaturalNoMtoN\sumFromNaturalNoMtoN\obj\Debug\net8.0\ref\sumFromNaturalNoMtoN.dll

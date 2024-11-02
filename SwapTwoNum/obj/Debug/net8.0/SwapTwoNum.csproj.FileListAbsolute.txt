@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\SwapTwoNum\bin\Debug\net8.0\SwapTwoNum.exe
+E:\Visual Studio Community\c#\SwapTwoNum\bin\Debug\net8.0\SwapTwoNum.deps.json
+E:\Visual Studio Community\c#\SwapTwoNum\bin\Debug\net8.0\SwapTwoNum.runtimeconfig.json
+E:\Visual Studio Community\c#\SwapTwoNum\bin\Debug\net8.0\SwapTwoNum.dll
+E:\Visual Studio Community\c#\SwapTwoNum\bin\Debug\net8.0\SwapTwoNum.pdb
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.AssemblyInfo.cs
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.dll
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\refint\SwapTwoNum.dll
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.pdb
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\SwapTwoNum.genruntimeconfig.cache
+E:\Visual Studio Community\c#\SwapTwoNum\obj\Debug\net8.0\ref\SwapTwoNum.dll

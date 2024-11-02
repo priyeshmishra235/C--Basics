@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.AssemblyInfo.cs
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\bin\Debug\net8.0\SumOfDigitsOfNum.exe
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\bin\Debug\net8.0\SumOfDigitsOfNum.deps.json
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\bin\Debug\net8.0\SumOfDigitsOfNum.runtimeconfig.json
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\bin\Debug\net8.0\SumOfDigitsOfNum.dll
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\bin\Debug\net8.0\SumOfDigitsOfNum.pdb
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.dll
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\refint\SumOfDigitsOfNum.dll
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.pdb
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\SumOfDigitsOfNum.genruntimeconfig.cache
+E:\Visual Studio Community\c#\SumOfDigitsOfNum\SumOfDigitsOfNum\obj\Debug\net8.0\ref\SumOfDigitsOfNum.dll

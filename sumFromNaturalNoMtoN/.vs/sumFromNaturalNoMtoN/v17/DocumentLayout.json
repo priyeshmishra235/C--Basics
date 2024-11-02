@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio Community\\c#\\sumFromNaturalNoMtoN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466C8B7B-279D-4288-9F68-51E8598D8CA0}|sumFromNaturalNoMtoN\\sumFromNaturalNoMtoN.csproj|e:\\visual studio community\\c#\\sumfromnaturalnomton\\sumfromnaturalnomton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C8B7B-279D-4288-9F68-51E8598D8CA0}|sumFromNaturalNoMtoN\\sumFromNaturalNoMtoN.csproj|solutionrelative:sumfromnaturalnomton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio Community\\c#\\sumFromNaturalNoMtoN\\sumFromNaturalNoMtoN\\Program.cs",
+              "RelativeDocumentMoniker": "sumFromNaturalNoMtoN\\Program.cs",
+              "ToolTip": "E:\\Visual Studio Community\\c#\\sumFromNaturalNoMtoN\\sumFromNaturalNoMtoN\\Program.cs",
+              "RelativeToolTip": "sumFromNaturalNoMtoN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:45:21.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

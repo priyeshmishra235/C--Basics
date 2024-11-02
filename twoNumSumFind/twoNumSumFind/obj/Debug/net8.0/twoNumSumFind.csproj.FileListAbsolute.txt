@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\bin\Debug\net8.0\twoNumSumFind.exe
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\bin\Debug\net8.0\twoNumSumFind.deps.json
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\bin\Debug\net8.0\twoNumSumFind.runtimeconfig.json
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\bin\Debug\net8.0\twoNumSumFind.dll
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\bin\Debug\net8.0\twoNumSumFind.pdb
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.AssemblyInfo.cs
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.dll
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\refint\twoNumSumFind.dll
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.pdb
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\twoNumSumFind.genruntimeconfig.cache
+E:\Visual Studio Community\c#\twoNumSumFind\twoNumSumFind\obj\Debug\net8.0\ref\twoNumSumFind.dll

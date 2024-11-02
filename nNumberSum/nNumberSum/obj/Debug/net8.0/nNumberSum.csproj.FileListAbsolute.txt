@@ -1,0 +1,14 @@
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\bin\Debug\net8.0\nNumberSum.exe
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\bin\Debug\net8.0\nNumberSum.deps.json
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\bin\Debug\net8.0\nNumberSum.runtimeconfig.json
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\bin\Debug\net8.0\nNumberSum.dll
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\bin\Debug\net8.0\nNumberSum.pdb
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.AssemblyInfoInputs.cache
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.AssemblyInfo.cs
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.dll
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\refint\nNumberSum.dll
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.pdb
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\nNumberSum.genruntimeconfig.cache
+E:\Visual Studio Community\c#\nNumberSum\nNumberSum\obj\Debug\net8.0\ref\nNumberSum.dll
